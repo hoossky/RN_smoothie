@@ -1,0 +1,6 @@
+module Pods_smoothie_smoothieTests {
+  umbrella header "Pods-smoothie-smoothieTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

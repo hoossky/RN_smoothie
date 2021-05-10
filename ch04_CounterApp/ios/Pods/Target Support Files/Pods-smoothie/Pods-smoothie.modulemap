@@ -1,0 +1,6 @@
+module Pods_smoothie {
+  umbrella header "Pods-smoothie-umbrella.h"
+
+  export *
+  module * { export * }
+}
